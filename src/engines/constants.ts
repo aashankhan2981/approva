@@ -58,7 +58,7 @@ export function getProgramById(id:string):ProgramType|null{
          multipleBranch: true,
          responsivity: ResponsivityLevel.Short,
          hasCashBack: false,
-         documentationRequired: false,
+         documentationRequired: DocumentationRequirementLevel.Medium,
          prepaymentAbility: PrepaymentAbilityLevel.Medium,
      },
      {
@@ -100,7 +100,7 @@ export function getProgramById(id:string):ProgramType|null{
          multipleBranch: false,
          responsivity: ResponsivityLevel.Long,
          hasCashBack: false,
-         documentationRequired: false,
+         documentationRequired: DocumentationRequirementLevel.Medium,
          prepaymentAbility: PrepaymentAbilityLevel.High,
      },
      {
@@ -289,7 +289,7 @@ export function getProgramById(id:string):ProgramType|null{
          multipleBranch: true,
          responsivity: ResponsivityLevel.Short,
          hasCashBack: true,
-         documentationRequired: false,
+         documentationRequired: DocumentationRequirementLevel.Medium,
          prepaymentAbility: PrepaymentAbilityLevel.Medium,
      },
      {
@@ -331,7 +331,7 @@ export function getProgramById(id:string):ProgramType|null{
          multipleBranch: true,
          responsivity: ResponsivityLevel.Medium,
          hasCashBack: true,
-         documentationRequired: false,
+         documentationRequired: DocumentationRequirementLevel.Medium,
          prepaymentAbility: PrepaymentAbilityLevel.Medium,
      },
  ];
