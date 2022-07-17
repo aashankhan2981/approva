@@ -1,0 +1,129 @@
+.matchingSectionNew {
+  width: 1440px;
+  padding: 30px 0;
+
+  .headerFilterContainer {
+    height: 46px;
+    padding: 30px 31px;
+    width: calc(100% - 62px);
+
+    .amortizationTermContainer {
+      height: 100%;
+      display: flex;
+      align-items: center;
+
+      .amortizationTermLabel {
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 18px;
+        padding-right: 20px;
+      }
+
+      .amortizationTermFilterContainer {
+        width: 296px;
+        height: 100%;
+        display: flex;
+        background: #F9FAFC;
+        align-items: center;
+        border-radius: 9660px;
+
+        .amortizationTermFilterChild {
+          color: #868E96;
+          font-size: 12px;
+          font-weight: 500;
+          line-height: 18px;
+
+          &.active {
+            color: #000000;
+            background: #FFFFFF;
+            border-radius: 960px;
+            padding: 14px 20px 14px 20px;
+          }
+        }
+      }
+    }
+
+    .termsContainer {
+      height: 100%;
+      display: flex;
+      padding-left: 54px;
+      align-items: center;
+
+      .termsLabel {
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 18px;
+        padding-right: 20px;
+      }
+
+      .termsFilterContainer {
+        width: 296px;
+        height: 100%;
+        display: flex;
+        background: #F9FAFC;
+        align-items: center;
+        border-radius: 9660px;
+
+        .termsFilterChild {
+          color: #868E96;
+          font-size: 12px;
+          font-weight: 500;
+          line-height: 18px;
+
+          &.active {
+            color: #000000;
+            background: #FFFFFF;
+            border-radius: 960px;
+            padding: 14px 20px 14px 20px;
+          }
+        }
+      }
+    }
+
+    .interestRateContainer {
+      height: 100%;
+      display: flex;
+      padding-left: 54px;
+      align-items: center;
+
+      .interestRateLabel {
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 18px;
+        padding-right: 20px;
+      }
+
+      .interestRateFilterContainer {
+        width: 222px;
+        height: 100%;
+        display: flex;
+        background: #F9FAFC;
+        align-items: center;
+        border-radius: 9660px;
+
+        .interestRateFilterChild {
+          color: #868E96;
+          font-size: 12px;
+          font-weight: 500;
+          line-height: 18px;
+
+          &.active {
+            color: #000000;
+            background: #FFFFFF;
+            border-radius: 960px;
+            padding: 14px 20px 14px 20px;
+          }
+        }
+      }
+    }
+  }
+
+  .matchingSectionBody {
+    display: flex;
+
+    .matchingSectionBodyRightSection {
+      height: 100%;
+      width: calc(100% - 280px);
+    }
+  }
+}

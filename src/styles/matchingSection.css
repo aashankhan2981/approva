@@ -1,0 +1,392 @@
+.matchWrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.matchingSectionNew {
+    width: 1440px;
+    padding: 30px 0;
+    background: #FFFFFF;
+}
+.matchingSectionNew .headerFilterContainer {
+    height: 46px;
+    display: flex;
+    padding: 0 31px;
+    margin: 30px 0;
+    align-items: center;
+    width: calc(100% - 62px);
+}
+.matchingSectionNew .headerFilterContainer .amortizationTermContainer {
+    width: 420px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.matchingSectionNew .headerFilterContainer .amortizationTermContainer .amortizationTermLabel {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    white-space: nowrap;
+    padding-right: 20px;
+}
+.matchingSectionNew .headerFilterContainer .amortizationTermContainer .amortizationTermFilterContainer {
+    width: 296px;
+    height: 100%;
+    display: flex;
+    background: #f9fafc;
+    align-items: center;
+    border-radius: 9660px;
+    border: 1px solid rgba(229, 233, 242, 1);
+}
+.matchingSectionNew .headerFilterContainer .amortizationTermContainer .amortizationTermFilterContainer .amortizationTermFilterChild {
+    width: 74px;
+    cursor: pointer;
+    color: #868e96;
+    font-size: 12px;
+    padding: 14px 0;
+    font-weight: 500;
+    line-height: 18px;
+}
+.matchingSectionNew .headerFilterContainer .amortizationTermContainer .amortizationTermFilterContainer .amortizationTermFilterChild.active {
+    color: #000;
+    background: #fff;
+    border-radius: 960px;
+    box-shadow: 0 2px 17px 0 rgba(232, 236, 243, 1);
+}
+.matchingSectionNew .headerFilterContainer .termsContainer {
+    height: 100%;
+    display: flex;
+    padding-left: 54px;
+    align-items: center;
+}
+.matchingSectionNew .headerFilterContainer .termsContainer .termsLabel {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    white-space: nowrap;
+    padding-right: 20px;
+}
+.matchingSectionNew .headerFilterContainer .termsContainer .termsFilterContainer {
+    width: 481px;
+    height: 100%;
+    display: flex;
+    background: #f9fafc;
+    align-items: center;
+    border-radius: 9660px;
+    border: 1px solid rgba(229, 233, 242, 1);
+}
+.matchingSectionNew .headerFilterContainer .termsContainer .termsFilterContainer .termsFilterChild {
+    width: 57px;
+    color: #868e96;
+    font-size: 12px;
+    cursor: pointer;
+    font-weight: 500;
+    line-height: 18px;
+}
+.matchingSectionNew .headerFilterContainer .termsContainer .termsFilterContainer .termsFilterChild.last {
+    width: 80px;
+}
+.matchingSectionNew .headerFilterContainer .termsContainer .termsFilterContainer .termsFilterChild.active {
+    color: #000;
+    background: #fff;
+    border-radius: 960px;
+    padding: 14px 20px 14px 20px;
+    box-shadow: 0 2px 17px 0 rgba(232, 236, 243, 1);
+}
+.matchingSectionNew .headerFilterContainer .interestRateContainer {
+    height: 100%;
+    display: flex;
+    padding-left: 54px;
+    align-items: center;
+}
+.matchingSectionNew .headerFilterContainer .interestRateContainer .interestRateLabel {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    white-space: nowrap;
+    padding-right: 20px;
+}
+.matchingSectionNew .headerFilterContainer .interestRateContainer .interestRateFilterContainer {
+    width: 222px;
+    height: 100%;
+    display: flex;
+    background: #f9fafc;
+    align-items: center;
+    border-radius: 9660px;
+    border: 1px solid rgba(229, 233, 242, 1);
+}
+.matchingSectionNew .headerFilterContainer .interestRateContainer .interestRateFilterContainer .interestRateFilterChild {
+    color: #868e96;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    padding: 14px 20px 14px 20px;
+}
+.matchingSectionNew .headerFilterContainer .interestRateContainer .interestRateFilterContainer .interestRateFilterChild.last {
+    width: 90px;
+}
+.matchingSectionNew .headerFilterContainer .interestRateContainer .interestRateFilterContainer .interestRateFilterChild.active {
+    color: #000;
+    background: #fff;
+    border-radius: 960px;
+    padding: 14px 20px 14px 20px;
+    box-shadow: 0 2px 17px 0 rgba(232, 236, 243, 1);
+}
+.matchingSectionNew .matchingSectionBody {
+    display: flex;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection {
+    height: 100%;
+    margin-right: 30px;
+    width: calc(100% - 350px);
+}
+
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper {
+    width: 100%;
+    height: 770px;
+    display: inline-block;
+}
+
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchingSectionBodyRightSectionList {
+    height: calc(100% - 95px);
+    overflow: auto;
+}
+
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchingSectionBodyRightSectionHeader {
+    width: 100%;
+    height: 68px;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    background: #F9FAFC;
+    margin-bottom: 25px;
+    box-shadow: 0 1.602502703666687px 8.012513160705566px 0 #CECECE80;
+}
+
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchingSectionBodyRightSectionHeader .checkboxHeader {
+    width: 95px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 22.5px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchingSectionBodyRightSectionHeader .partnersHeader {
+    width: 173px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 22.5px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchingSectionBodyRightSectionHeader .ratesAndMonthlyPaymentsHeader {
+    width: 250px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 22.5px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchingSectionBodyRightSectionHeader .cashbackHeader {
+    width: 211px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 22.5px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchingSectionBodyRightSectionHeader .bonusProductsHeader {
+    width: 184px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 22.5px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchingSectionBodyRightSectionHeader .documentsRequiredHeader {
+    width: 187px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 22.5px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView  {
+    width: 100%;
+    height: 160px;
+    display: flex;
+    margin-bottom: 24px;
+    align-items: center;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchFirstColumn  {
+    height: 100%;
+    width: 95px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchFirstColumn .infoWrapper  {
+    display: flex;
+    padding-top: 40px;
+    align-items: center;
+    justify-content: center;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchFirstColumn .infoWrapper .infoOutlineIcon  {
+    height: 18px;
+    width: 18px;
+    margin-left: 10px;
+    margin-bottom: 8px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchFirstColumn .greenCheckIconWrapper  {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchFirstColumn .greenCheckIconWrapper .greenCheckIcon  {
+    height: 40px;
+    width: 40px;
+    color: #ACD191;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchSecondColumn  {
+    height: 160px;
+    width: 173px;
+    display: flex;
+    padding: 40px 27px;
+    justify-content: center;
+    border-radius: 20px 0 0 20px;
+}
+
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchSecondColumn.Scotia  {
+    padding: 39px 14px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchSecondColumn.MCAP  {
+    padding: 25px 7px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchSecondColumn.CMLS  {
+    padding: 31.5px 10px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchSecondColumn.Home  {
+    padding: 38.5px 17.5px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchSecondColumn.Optimum  {
+    padding: 24.5px 16px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchSecondColumn.Haventree  {
+    padding: 32px 22px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchSecondColumn.RFA  {
+    padding: 47px 26px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchSecondColumn.RMG  {
+    padding: 32px 11px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchSecondColumn.Strive  {
+    padding: 54px 12px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchSecondColumn.ICICI  {
+    padding: 28.5px 12.5px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchSecondColumn.TD  {
+    padding: 39px 25px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchSecondColumn.First  {
+    padding: 25px 27px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchSecondColumn.Merix  {
+    padding: 25px 27px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchSecondColumn.Lendwise  {
+    padding: 47px 22px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchSecondColumn.B2B  {
+    padding: 40px 27px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchThirdColumn  {
+    height: 160px;
+    width: 250px;
+    padding: 15px;
+    box-shadow: 0 1.6025px 8.01251px rgba(206, 206, 206, 0.5);
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchThirdColumn .top {
+    height: 42%;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchThirdColumn .top .prefix {
+    color: #166232;
+    font-size: 20.83px;
+    font-weight: 500;
+    line-height: 20.03px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchThirdColumn .top .suffix {
+    color: #166232;
+    font-size: 11.22px;
+    font-weight: 500;
+    line-height: 20.03px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchThirdColumn .middle {
+    width: 100%;
+    height: 15px;
+    text-align: center;
+    border-bottom: 0.8px solid #979797;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchThirdColumn .middle .text {
+    background: #FFFFFF;
+    font-size: 9.62px;
+    font-weight: 700;
+    line-height: 14.42px;
+    padding: 0 5px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchThirdColumn .lower {
+    padding-top: 15px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchThirdColumn .lower .prefix {
+    color: #0F345F;
+    font-size: 20.83px;
+    font-weight: 500;
+    line-height: 20.03px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchThirdColumn .lower .suffix {
+    color: #0F345F;
+    font-size: 11.22px;
+    font-weight: 500;
+    line-height: 20.03px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchFourthColumn  {
+    height: 160px;
+    width: 211px;
+    padding: 15px;
+    background: #F9FAFC;
+    box-shadow: 0 1.6025px 8.01251px rgba(206, 206, 206, 0.5);
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchFourthColumn .top  {
+    width: 100%;
+    font-weight: 700;
+    padding-bottom: 5px;
+    font-size: 24.04px;
+    line-height: 36.06px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchFourthColumn .divider  {
+    height: 10px;
+    width: 100%;
+    border-top: 0.8px solid #979797;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchFourthColumn .middle .approvaCashback {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchFourthColumn .middle .approvaCashback .prefix {
+    font-weight: 700;
+    font-size: 16.03px;
+    line-height: 20.03px;
+    padding-right: 5px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchFourthColumn .middle .approvaCashback .suffix {
+    font-weight: 700;
+    font-size: 16.03px;
+    line-height: 20.03px;
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchFifthColumn  {
+    height: 160px;
+    width: 184px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1.6025px 8.01251px rgba(206, 206, 206, 0.5);
+}
+.matchingSectionNew .matchingSectionBody .matchingSectionBodyRightSection .bodyRightSectionWrapper .matchView .matchSixthColumn  {
+    height: 160px;
+    width: 187px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #F9FAFC;
+    box-shadow: 0 1.6025px 8.01251px rgba(206, 206, 206, 0.5);
+}
+

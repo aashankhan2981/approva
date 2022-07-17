@@ -1,0 +1,3774 @@
+[
+    {
+        "name": "B2B Bank",
+        "prime": 2.45,
+        "rates": [
+            {
+                "term": 1,
+                "fixed": 2.39,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 2.39,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 2.39,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 1,
+                "fixed": 2.39,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 2,
+                "fixed": 2.64,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 2.64,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 2.64,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 2,
+                "fixed": 2.64,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 3,
+                "fixed": 2.84,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.84,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.84,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 3,
+                "fixed": 2.84,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 4,
+                "fixed": 2.94,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 4,
+                "fixed": 2.94,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 2.74,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.95,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.95,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.95,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.95,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.95,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.95,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 7,
+                "fixed": 3.29,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 7,
+                "fixed": 3.29,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 7,
+                "fixed": 3.29,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 7,
+                "fixed": 3.29,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 10,
+                "fixed": 3.44,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 10,
+                "fixed": 3.44,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 10,
+                "fixed": 3.44,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 10,
+                "fixed": 3.44,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": "heloc",
+                "prime_offset": 0.5
+            }
+        ]
+    },
+    {
+        "name": "CMLS",
+        "prime": 2.45,
+        "rates": [
+            {
+                "term": 5,
+                "fixed": 2.69,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.69,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.89,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.89,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.89,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.15,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.95,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.95,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 7,
+                "fixed": 2.89,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 7,
+                "fixed": 3.04,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 10,
+                "fixed": 3.09,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 10,
+                "fixed": 3.24,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": "heloc",
+                "prime_offset": 0.5
+            }
+        ]
+    },
+    {
+        "name": "Equitable Bank",
+        "prime": 2.45,
+        "rates": [
+            {
+                "term": 1,
+                "fixed": 2.99,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 2.99,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 2.79,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 2.79,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.79,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.79,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 2.79,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 2.79,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.74,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.74,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.89,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.89,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.89,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            }
+        ]
+    },
+    {
+        "name": "First National",
+        "prime": 2.45,
+        "rates": [
+            {
+                "term": 1,
+                "fixed": 2.64,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 2.69,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 2.74,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 1,
+                "fixed": 2.74,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 2,
+                "fixed": 2.64,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 2.69,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 2.89,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 2,
+                "fixed": 2.89,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 3,
+                "fixed": 2.69,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.84,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.89,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 3,
+                "fixed": 2.89,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 4,
+                "fixed": 2.79,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 3.04,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 3.04,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 4,
+                "fixed": 3.04,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 2.89,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.89,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.04,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.04,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.04,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.04,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 3.04,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.9,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.9,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.9,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.9,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.9,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 7,
+                "fixed": 3.24,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 7,
+                "fixed": 3.24,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 7,
+                "fixed": 3.24,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 7,
+                "fixed": 3.24,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 10,
+                "fixed": 3.4,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 10,
+                "fixed": 3.4,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 10,
+                "fixed": 3.4,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 10,
+                "fixed": 3.4,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            }
+        ]
+    },
+    {
+        "name": "ICICI Bank",
+        "prime": 2.45,
+        "rates": [
+            {
+                "term": 1,
+                "fixed": 3.19,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 3.54,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 1,
+                "fixed": 3.59,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 2,
+                "fixed": 3.19,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 3.24,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 2,
+                "fixed": 3.24,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 3,
+                "fixed": 2.99,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 3.34,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 3,
+                "fixed": 3.34,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 4,
+                "fixed": 3.04,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 3.59,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 4,
+                "fixed": 3.59,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 2.74,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.89,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.89,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.89,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.89,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.89,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 3.89,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": 0.45,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": 0.45,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": 0.45,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": 0.45,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": 0.45,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": 0.45,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            }
+        ]
+    },
+    {
+        "name": "Home Trust",
+        "prime": 2.45,
+        "rates": [
+            {
+                "term": 1,
+                "fixed": 2.39,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 2.19,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.54,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 2.59,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.79,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.04,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.04,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.19,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.05,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.05,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.95,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.85,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            }
+        ]
+    },
+    {
+        "name": "Optimum",
+        "prime": 2.45,
+        "rates": [
+            {
+                "term": 1,
+                "fixed": 3.09,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 3.52,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 1,
+                "fixed": 3.53,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 2,
+                "fixed": 3.14,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 3.14,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 2,
+                "fixed": 3.15,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 3,
+                "fixed": 2.89,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 3.24,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 3,
+                "fixed": 3.24,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 4,
+                "fixed": 3.03,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 3.55,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 4,
+                "fixed": 3.49,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 2.64,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.82,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.81,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.82,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.83,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.81,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 3.84,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": 0.45,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": 0.45,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": 0.45,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": 0.45,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": 0.45,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": 0.45,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 10,
+                "fixed": 4.1,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 10,
+                "fixed": 4.1,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 10,
+                "fixed": 4.1,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 10,
+                "fixed": 4.1,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            }
+        ]
+    },
+    {
+        "name": "Lendwise",
+        "prime": 2.45,
+        "rates": [
+            {
+                "term": 5,
+                "fixed": 2.79,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.79,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.99,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 2.99,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            }
+        ]
+    },
+    {
+        "name": "Manulife Bank",
+        "prime": 2.45,
+        "rates": [
+            {
+                "term": 5,
+                "fixed": 2.69,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.74,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.79,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.89,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.89,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.95,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.85,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.8,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": "heloc",
+                "prime_offset": 0.6
+            }
+        ]
+    },
+    {
+        "name": "MCAP",
+        "prime": 2.45,
+        "rates": [
+            {
+                "term": 1,
+                "fixed": 2.19,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 2.19,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 2.29,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 1,
+                "fixed": 2.29,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 2,
+                "fixed": 1.99,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 1.99,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 2.09,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 2,
+                "fixed": 2.09,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 3,
+                "fixed": 2.64,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.79,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.79,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 3,
+                "fixed": 2.89,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 4,
+                "fixed": 2.79,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 4,
+                "fixed": 2.99,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 2.79,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.79,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.19,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 3.19,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.9,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.9,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 7,
+                "fixed": 4.04,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 7,
+                "fixed": 4.04,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 7,
+                "fixed": 4.04,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 7,
+                "fixed": 4.04,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 10,
+                "fixed": 4.14,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 10,
+                "fixed": 4.14,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 10,
+                "fixed": 4.14,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 10,
+                "fixed": 4.14,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            }
+        ]
+    },
+    {
+        "name": "Haventree",
+        "prime": 2.45,
+        "rates": [
+            {
+                "term": 1,
+                "fixed": 2.15,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 2.16,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 2.24,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 1,
+                "fixed": 2.26,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 2,
+                "fixed": 1.92,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 1.96,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 2.03,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 2,
+                "fixed": 2.02,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 3,
+                "fixed": 2.6,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.75,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.71,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 3,
+                "fixed": 2.83,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 4,
+                "fixed": 2.73,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 2.91,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 2.91,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 4,
+                "fixed": 2.93,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 2.72,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.74,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.91,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.91,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.91,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.12,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 3.12,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.9,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.9,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 10,
+                "fixed": 4.1,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 10,
+                "fixed": 4.1,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 10,
+                "fixed": 4.1,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 10,
+                "fixed": 4.1,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            }
+        ]
+    },
+    {
+        "name": "Merix",
+        "prime": 2.45,
+        "rates": [
+            {
+                "term": 5,
+                "fixed": 2.79,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.79,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.99,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 2.99,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            }
+        ]
+    },
+    {
+        "name": "RFA",
+        "prime": 2.45,
+        "rates": [
+            {
+                "term": 1,
+                "fixed": 2.59,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 2.74,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 2.59,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 2.74,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.69,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.84,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 2.79,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.74,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.74,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.19,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 3.19,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.2,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.15,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.5,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.5,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            }
+        ]
+    },
+    {
+        "name": "RightMortgage",
+        "prime": 2.45,
+        "rates": [
+            {
+                "term": 5,
+                "fixed": 2.79,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.79,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.99,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 2.99,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            }
+        ]
+    },
+    {
+        "name": "RMG",
+        "prime": 2.45,
+        "rates": [
+            {
+                "term": 1,
+                "fixed": 2.19,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 2.19,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 2.29,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 1,
+                "fixed": 2.29,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 2,
+                "fixed": 1.99,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 1.99,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 2.09,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 2,
+                "fixed": 2.09,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 3,
+                "fixed": 2.64,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.79,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.79,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 3,
+                "fixed": 2.89,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 4,
+                "fixed": 2.79,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 4,
+                "fixed": 2.99,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 2.79,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.79,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.19,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 3.19,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.9,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.9,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            }
+        ]
+    },
+    {
+        "name": "Scotia",
+        "prime": 2.45,
+        "rates": [
+            {
+                "term": 1,
+                "fixed": 2.89,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 2.89,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 2.89,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 1,
+                "fixed": 2.89,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 2,
+                "fixed": 2.84,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 2.84,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 2.84,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 2,
+                "fixed": 2.84,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 3,
+                "fixed": 2.89,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.89,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.89,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 3,
+                "fixed": 2.89,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 4,
+                "fixed": 3.04,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 3.04,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 3.04,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 4,
+                "fixed": 3.04,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 3.04,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.19,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.19,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.19,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.19,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.19,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 3.19,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.95,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.85,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.85,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.85,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.85,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.85,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.85,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 7,
+                "fixed": 3.74,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 7,
+                "fixed": 3.74,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 7,
+                "fixed": 3.74,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 7,
+                "fixed": 3.74,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 10,
+                "fixed": 4.03,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 10,
+                "fixed": 4.03,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 10,
+                "fixed": 4.03,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 10,
+                "fixed": 4.03,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": "heloc",
+                "prime_offset": 0.5
+            }
+        ]
+    },
+    {
+        "name": "Strive",
+        "prime": 2.45,
+        "rates": [
+            {
+                "term": 1,
+                "fixed": 2.64,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 2.84,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 2.69,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 2.84,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.69,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.84,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 2.69,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 2.74,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.79,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.79,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.15,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.15,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.95,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -0.95,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            }
+        ]
+    },
+    {
+        "name": "TD Bank",
+        "prime": 2.45,
+        "rates": [
+            {
+                "term": 1,
+                "fixed": 2.74,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 2.74,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 1,
+                "fixed": 2.74,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 1,
+                "fixed": 2.74,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 2,
+                "fixed": 2.89,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 2.89,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 2,
+                "fixed": 2.89,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 2,
+                "fixed": 2.89,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 3,
+                "fixed": 2.89,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.89,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 3,
+                "fixed": 2.89,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 3,
+                "fixed": 2.89,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 4,
+                "fixed": 2.94,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 4,
+                "fixed": 2.94,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 4,
+                "fixed": 2.94,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 2.94,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.04,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.04,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.04,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.04,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "fixed": 3.04,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "fixed": 3.04,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.1,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.05,
+                "LTV_U": 65,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.05,
+                "LTV_U": 70,
+                "LTV_L": 65,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.05,
+                "LTV_U": 75,
+                "LTV_L": 70,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.05,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.05,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 5,
+                "prime_offset": -1.05,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 6,
+                "fixed": 3.14,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 6,
+                "fixed": 3.14,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 6,
+                "fixed": 3.14,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 6,
+                "fixed": 3.14,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 7,
+                "fixed": 3.24,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 7,
+                "fixed": 3.24,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 7,
+                "fixed": 3.24,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 7,
+                "fixed": 3.24,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            },
+            {
+                "term": 10,
+                "fixed": 3.4,
+                "LTV_U": 95,
+                "LTV_L": 80,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 10,
+                "fixed": 3.4,
+                "LTV_U": 80,
+                "LTV_L": 75,
+                "refinance": false,
+                "ensured": true
+            },
+            {
+                "term": 10,
+                "fixed": 3.4,
+                "LTV_U": 80,
+                "LTV_L": 0,
+                "refinance": false,
+                "ensured": false
+            },
+            {
+                "term": 10,
+                "fixed": 3.4,
+                "LTV_U": 95,
+                "LTV_L": 0,
+                "refinance": true,
+                "ensured": false
+            }
+        ]
+    }
+]

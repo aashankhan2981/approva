@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "incremental": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve"
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx"
+, "components/forms/applicants/ContactInformationForm.tsx", "components/forms/applicants/ContactInformationForm.tsx", "components/icons/index.js", "components/util/LightToolTip.js", "src/pages/admin/index.js", "src/components/landing/home/sections/testimonial slider/testimonialtsx"  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

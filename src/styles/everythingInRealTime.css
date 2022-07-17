@@ -1,0 +1,319 @@
+.wrapper {
+    display: flex;
+    margin: 40px 0;
+    justify-content: center;
+}
+.wrapper .everythingInRealTime {
+    height: 940px;
+    width: 1439.2px;
+    padding-top: 78px;
+    border-radius: 60px;
+}
+.wrapper .everythingInRealTime .headerContainer {
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+}
+.wrapper .everythingInRealTime .headerContainer .message {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.wrapper .everythingInRealTime .headerContainer .message.moreToChoose {
+    color: #7551e9;
+}
+.wrapper .everythingInRealTime .headerContainer .message.everythingTailored {
+    color: #ff7d51;
+}
+.wrapper .everythingInRealTime .headerContainer .headingContainer {
+    width: 89%;
+    display: flex;
+    align-items: center;
+    padding-bottom: 40px;
+    justify-content: center;
+}
+.wrapper .everythingInRealTime .headerContainer .headingContainer .ellipsis {
+    left: 430px;
+    position: relative;
+}
+.wrapper .everythingInRealTime .headerContainer .headingContainer .heading {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: center;
+}
+.wrapper .everythingInRealTime .headerContainer .tabsContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper .everythingInRealTime .headerContainer .tabsContainer .tabContainer {
+    left: 30px;
+}
+.wrapper .everythingInRealTime .headerContainer .tabsContainer .tabContainer .moreToChooseTab {
+    border: none;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-right: 35px;
+}
+.wrapper .everythingInRealTime .headerContainer .tabsContainer .tabContainer .moreToChooseTab.active {
+    font-weight: 600;
+}
+.wrapper .everythingInRealTime .headerContainer .tabsContainer .tabContainer .selectedTabHighlighter {
+    right: 20px;
+    position: relative;
+    display: unset;
+    vertical-align: unset;
+}
+.wrapper .everythingInRealTime .headerContainer .tabsContainer .tabContainer .selectedTabHighlighter.tailored {
+    right: unset;
+}
+.wrapper .everythingInRealTime .headerContainer .tabsContainer .tabContainer .everythingTailoredTab {
+    border: none;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.wrapper .everythingInRealTime .headerContainer .tabsContainer .tabContainer .everythingTailoredTab.active {
+    font-weight: 600;
+}
+.wrapper .everythingInRealTime .headerContainer .tabsContainer .tabContainer.tailored {
+    position: relative;
+}
+.wrapper .everythingInRealTime .headerContainer .tabsContainer .tabContainer .placeholder {
+    height: 24px;
+}
+.wrapper .everythingInRealTime .headerContainer .tabsContainer .bluebackgroundSmallShade {
+    top: 30px;
+    left: 295px;
+    width: 53px;
+    height: 53px;
+    position: relative;
+    border-radius: 50%;
+    background: lightskyblue;
+}
+.wrapper .everythingInRealTime .headerContainer .tabsContainer .orangebackgroundSmallShade {
+    top: 30px;
+    left: 295px;
+    width: 53px;
+    height: 53px;
+    position: relative;
+    border-radius: 50%;
+    background: rgba(255, 194, 18, 0.3);
+}
+.wrapper .everythingInRealTime .body {
+    display: flex;
+    align-items: center;
+    padding-bottom: 25px;
+}
+.wrapper .everythingInRealTime .body.more {
+    padding-top: 30px;
+}
+.wrapper .everythingInRealTime .tailoredLeftSection {
+    width: 35%;
+    height: 564px;
+    padding-top: 30px;
+    margin-left: 100px;
+}
+.wrapper .everythingInRealTime .tailoredLeftSection .section {
+    display: flex;
+    padding-bottom: 30px;
+}
+.wrapper .everythingInRealTime .tailoredLeftSection .section .icon {
+    width: 80px;
+    height: 60px;
+    padding-right: 20px;
+}
+.wrapper .everythingInRealTime .tailoredLeftSection .section .descriptionContainer {
+    text-align: left;
+    display: inline-block;
+}
+.wrapper .everythingInRealTime .tailoredLeftSection .section .descriptionContainer .heading {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px;
+    padding-bottom: 10px;
+}
+.wrapper .everythingInRealTime .tailoredLeftSection .section .descriptionContainer .description {
+    width: 400px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    padding-bottom: 10px;
+    color: rgba(28, 45, 65, 1);
+}
+.wrapper .everythingInRealTime .moreLeftSection {
+    width: 34%;
+    height: 534px;
+    margin-left: 100px;
+}
+.wrapper .everythingInRealTime .moreLeftSection .heading1 {
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 60px;
+    text-align: left;
+    padding-bottom: 30px;
+}
+.wrapper .everythingInRealTime .moreLeftSection .heading1 .bold {
+    font-weight: 700;
+}
+.wrapper .everythingInRealTime .moreLeftSection .heading2 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    padding-bottom: 10px;
+}
+.wrapper .everythingInRealTime .moreLeftSection .description {
+    color: #3c4858;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    padding-bottom: 30px;
+}
+.wrapper .everythingInRealTime .getStartedButton {
+    float: left;
+    width: 152px;
+    height: 57px;
+    border: unset;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+.wrapper .everythingInRealTime .getStartedButton.tailored {
+    margin-left: 75px;
+    background: rgba(255, 194, 18, 1);
+}
+.wrapper .everythingInRealTime .getStartedButton.more {
+    background: #0aafff;
+}
+.wrapper .everythingInRealTime .moreRightSection {
+    height: 534px;
+    padding-left: 90px;
+    width: calc(66% - 220px);
+}
+.wrapper .everythingInRealTime .moreRightSection .imageContainer {
+    width: 100%;
+    display: flex;
+    position: relative;
+}
+.wrapper .everythingInRealTime .moreRightSection .imageContainer .backgroundShade {
+    top: 35px;
+    left: 45px;
+    width: 463px;
+    height: 463px;
+    margin-left: 40px;
+    position: relative;
+    border-radius: 50%;
+    background: rgba(10, 175, 255, 0.3);
+}
+.wrapper .everythingInRealTime .moreRightSection .imageContainer .moreLeftSectionImageContainer {
+    width: 100%;
+    position: absolute;
+    display: inline-block;
+}
+.wrapper .everythingInRealTime .moreRightSection .imageContainer .moreLeftSectionImageContainer .bankBadgeWrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 7.45px;
+    justify-content: center;
+}
+.wrapper .everythingInRealTime .moreRightSection .imageContainer .moreLeftSectionImageContainer .bankBadgeWrapper div:hover {
+    transform: translateY(-0.25em);
+    /* box-shadow: #000 0 5px 35px 0; */
+    -webkit-transform: translateY(-0.25em);
+}
+.wrapper .everythingInRealTime .moreRightSection .imageContainer .moreLeftSectionImageContainer .bankBadgeContainer {
+    width: 130.41px;
+    height: 81.97px;
+    background: #fff;
+    margin-right: 7.45px;
+    border-radius: 20.49px;
+    /* box-shadow: 0 20.2148px 60.6443px #000; */
+    transition: 0.2s;
+}
+.wrapper .everythingInRealTime .moreRightSection .imageContainer .moreLeftSectionImageContainer .bankBadgeContainer .bankIcon {
+    width: 130px;
+    height: 84.76px;
+    padding: 10px 23.5px;
+    cursor: pointer;
+}
+.wrapper .everythingInRealTime .tailoredRightSection {
+    height: 534px;
+    padding-left: 120px;
+    width: calc(65% - 220px);
+}
+.wrapper .everythingInRealTime .tailoredRightSection .imageContainer {
+    display: flex;
+}
+.wrapper .everythingInRealTime .tailoredRightSection .imageContainer .backgroundShade {
+    left: 20px;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    border-radius: 50%;
+    background: rgba(255, 194, 18, 0.3);
+}
+.wrapper .everythingInRealTime .tailoredRightSection .imageContainer .image {
+    width: 540px;
+    height: 430px;
+    padding-top: 55px;
+    position: absolute;
+}
+.wrapper .everythingInRealTime .footer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper .everythingInRealTime .footer .footerImage {
+    right: 220px;
+    width: 346px;
+    height: 75px;
+    position: relative;
+    padding-bottom: 30px;
+}
+.wrapper .everythingInRealTime .footer .background {
+    left: 170px;
+    position: relative;
+}
+.wrapper .everythingInRealTime.moreToChoose {
+    /* background: #0aafff 1A; */
+    background: #0aafff1a !important;
+}
+.wrapper .everythingInRealTime.everythingTailored {
+    /* background: rgba(255, 194, 18, 0.1); */
+    background: rgba(255,194,18,.1);
+}
+.activePageBadgeContainer {
+    display: flex;
+    align-items: center;
+    padding-bottom: 10px;
+    justify-content: center;
+}
+.activePageBadgeContainer .activePageBadge {
+    width: 8px;
+    height: 8px;
+    margin: 0 2px;
+    border-radius: 50%;
+    background: #dee2e6;
+}
+.activePageBadgeContainer .activePageBadge.active {
+    background: white;
+    border: 3px solid #2dca73;
+}
+.maxWidth {
+    width: 100%;
+    max-width: 1439.2px;
+    margin: 2.5rem auto 2.5rem auto;
+}
+.star4 {
+    width: 80px;
+}

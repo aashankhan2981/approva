@@ -1,0 +1,163 @@
+.app {
+    display: flex;
+    margin: 40px 0;
+    justify-content: center;
+}
+.app .homePage {
+    height: 1190px;
+    width: 1439.2px;
+    border-radius: 60px;
+    background: #0aafff 1A;
+}
+.app .homePage .heading {
+    height: 180px;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 80px;
+    line-height: 60px;
+    text-align: center;
+}
+.app .homePage .body {
+    display: flex;
+    justify-content: center;
+}
+.app .homePage .body .leftSection {
+    width: 47%;
+    text-align: right;
+}
+.app .homePage .body .rightSection {
+    width: 53%;
+    text-align: left;
+}
+.app .homePage .body .divider {
+    margin: 0 40px;
+}
+.app .homePage .body .divider .separatorDown {
+    margin-left: 8px;
+    border-left: 1px solid #94d0ed;
+}
+.app .homePage .body .divider .separatorDown.up {
+    height: 100%;
+}
+.app .homePage .body .divider .separatorDown.both {
+    height: 70%;
+}
+.app .homePage .body .divider .separatorUp {
+    margin-left: 8px;
+    border-left: 1px solid #94d0ed;
+}
+.app .homePage .body .divider .separatorUp.down {
+    height: 35%;
+}
+.app .homePage .body .divider .separatorUp.both {
+    height: 30%;
+}
+.app .homePage .body .divider .bullet {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: #94d0ed;
+}
+.app .homePage .body .divider.step1 {
+    height: 175px;
+    margin-top: 70px;
+}
+.app .homePage .body .divider.step2 {
+    height: 193px;
+}
+.app .homePage .body .divider.step3 {
+    height: 229px;
+}
+.app .homePage .body .divider.step4 {
+    height: 175px;
+    margin-bottom: 70px;
+}
+.app .homePage .body .desContainer {
+    display: flex;
+}
+.app .homePage .body .descriptionContainer {
+    width: 475px;
+    padding: 30px;
+    margin-bottom: 40px;
+    background: #fff;
+    display: inline-block;
+    border-radius: 0 25px 25px 25px;
+}
+.app .homePage .body .descriptionContainer .label {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    padding-bottom: 10px;
+}
+.app .homePage .body .descriptionContainer .label.left {
+    text-align: left;
+}
+.app .homePage .body .descriptionContainer .label.right {
+    text-align: right;
+}
+.app .homePage .body .descriptionContainer .description {
+    color: #8392a5;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26.23px;
+    word-break: break-word;
+}
+.app .homePage .body .descriptionContainer .description.right {
+    text-align: right;
+}
+.app .homePage .body .descriptionContainer .description.left {
+    text-align: left;
+}
+.app .homePage .body .descriptionContainer.step1, .app .homePage .body .descriptionContainer.step3 {
+    height: 205px;
+}
+.app .homePage .body .descriptionContainer.step2 {
+    height: 153px;
+}
+.app .homePage .body .descriptionContainer.step4 {
+    height: 169px;
+}
+.app .homePage .body .step {
+    display: flex;
+    text-align: center;
+}
+.app .homePage .body .step .number {
+    opacity: 0.4;
+    color: #0072aa;
+    font-size: 90px;
+    font-weight: 800;
+    line-height: 135px;
+}
+.app .homePage .body .step .iconContainer {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    background: rgba(148, 208, 237, 0.3);
+}
+.app .homePage .body .step .iconContainer .icon {
+    top: 40px;
+    display: unset;
+    position: relative;
+    vertical-align: unset;
+}
+.app .homePage .body .step .iconContainer.left {
+    margin-left: 40px;
+}
+.app .homePage .body .step .iconContainer.right {
+    margin-right: 40px;
+}
+.app .homePage .body .step.left {
+    float: left;
+}
+.app .homePage .body .step.right {
+    float: right;
+}
+.app .homePage .body .step.step1, .app .homePage .body .step.step3 {
+    margin-bottom: 100px;
+}
+.app .homePage .body .step.step2 {
+    margin-bottom: 53px;
+}
+.app .homePage .body .step.step4 {
+    margin-bottom: 100px;
+}
